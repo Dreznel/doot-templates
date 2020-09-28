@@ -1,0 +1,10 @@
+Version: 1.0
+
+Packages:
+  - tidyverse
+
+Repos:
+  - CRAN: "https://cran.rstudio.com"
+
+Lockfile:
+  Type: renv
